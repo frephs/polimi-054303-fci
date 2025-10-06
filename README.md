@@ -5,7 +5,7 @@ Repository contenente i materiali didattici e le esercitazioni di laboratorio pe
 
 ## Struttura del Repository
 ```
-Labs/
+/
 ├── README.md
 └── (materiali di laboratorio)
 ```
